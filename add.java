@@ -7,7 +7,7 @@ public class Main
          int b=15;
          System.out.println(a+b);
          System.out.println("true ")*/
-
+//new change
         for (int i=0;i<10;i++)
         {
             if (i%2==0) {
