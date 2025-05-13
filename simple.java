@@ -3,7 +3,8 @@ public class Main {
     {
          int a=10;
          int b=15;
-         System.out.println(a=b);
+         System.out.println(a+b);
+        System.out.println("it is 15");
         }
 
 }
